@@ -14,15 +14,16 @@ The required processing exceeds this previous data to store it in the database a
 
 ## Views Rules
 
-- vu_covid_summary holds the sum of confirmed, deathes, recovered and total active numbers.
-- vu_covid_trend holds the total confirmed, total deaths and total recovered.
-- vu_location holds top 10 countries with most total confirmed.
-- vu_top_contries holds top 10 countries with most total confirmed and total deaths.
+- `vu_covid_summary`: holds the sum of confirmed, deathes, recovered and total active numbers.
+- `vu_covid_trend`: holds the total confirmed, total deaths and total recovered.
+- `vu_location holds`: top 10 countries with most total confirmed.
+- `vu_top_contries`: holds top 10 countries with most total confirmed and total deaths.
 
 
 ## Tools i used 
 - Microsoft Azure
 - Microsoft Power BI.
+- SQL
 
 
 
